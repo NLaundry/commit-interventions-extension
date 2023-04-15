@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+yarn.lock
+yarn-error.log
+
+# Build output
+out/
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Test output
+.test_output
+
+# VSCode settings and cache
+.vscode/
+*.code-workspace
+
+# Miscellaneous
+*.log
+.DS_Store
+.env
